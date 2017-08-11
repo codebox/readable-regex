@@ -1,4 +1,4 @@
-package uk.org.codebox.readableregex;
+package net.codebox.readableregex;
 
 /**
  * Class representing a 'quantifier' which specifies how many times a token must appear in order

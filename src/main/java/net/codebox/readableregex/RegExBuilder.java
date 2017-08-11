@@ -1,4 +1,4 @@
-package uk.org.codebox.readableregex;
+package net.codebox.readableregex;
 
 /**
  * Used to construct strings of text that can be compiled into Pattern objects representing 

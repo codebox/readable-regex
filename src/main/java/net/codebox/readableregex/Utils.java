@@ -1,4 +1,4 @@
-package uk.org.codebox.readableregex;
+package net.codebox.readableregex;
 
 /**
  * Contains utility methods for the RegExBuilder library.

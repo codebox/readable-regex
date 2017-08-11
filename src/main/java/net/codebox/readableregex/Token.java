@@ -1,4 +1,4 @@
-package uk.org.codebox.readableregex;
+package net.codebox.readableregex;
 
 import java.util.regex.Pattern;
 

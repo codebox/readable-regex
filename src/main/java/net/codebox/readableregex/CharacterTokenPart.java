@@ -1,4 +1,4 @@
-package uk.org.codebox.readableregex;
+package net.codebox.readableregex;
 
 /**
  * Class representing part of a 'character token' in a regular expression. A character token
